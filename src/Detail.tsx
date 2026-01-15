@@ -1,3 +1,3 @@
 export const Detail = () => {
-  return null;
+  return <h1>Non LASCIAMRMI SOLAAAAAAAAAAAAAAAAAAAAAaa</h1>;
 };
